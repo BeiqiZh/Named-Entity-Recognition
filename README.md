@@ -1,7 +1,7 @@
 # Named Entity Recognition (NER) using Keras LSTM & Spacy
 How can we get useful information from massive unstructured documents? This question has been around for a long time before the named entity recognition (NER) model came out. This method can help people to extract key information from many different industries. This article will introduce and explain the methods used to solve the NER problem and shows the coding to build and train a bi-directional LSTM with Keras. On top of that, we will also demonstrate a NER model using Spacy.
 
-## Name Recognition 
+## What is Name Recognition? 
 NER seeks to extract and classify words into predefined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, etc. NER can be used in natural language processing (NLP) to help answer real-world problems. This can be applied to recognize and parse important information from resumes, search for specific products mentioned in complaints or reviews, look for a company name in a news article, and many other uses. Apart from being used as an information extraction tool, it is also a preprocessing step for many NLP applications like machine translation, question answering, and text summarization. Now, let’s take a look a the different deep learning approaches to solve the NER problem.
 
 ## Keras Bidirectional-LSTM
