@@ -11,3 +11,5 @@ A bidirectional LSTM is a combination of two LSTMs — one runs forwards from ri
 
 ## Spacy
 A simpler approach to solve the NER problem is to used Spacy, an open-source library for NLP. It provides features such as Tokenization, Parts-of-Speech (PoS) Tagging, Text Classification, and Named Entity Recognition. We will be using Spacy Pre-trained Model to show important
+
+# Visit our Medium Article for further details: https://zhoubeiqi.medium.com/named-entity-recognition-ner-using-keras-lstm-spacy-da3ea63d24c5
