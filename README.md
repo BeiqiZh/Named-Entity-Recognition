@@ -10,7 +10,7 @@ Long Short Term Memory networks are a special kind of RNN capable of learning lo
 A bidirectional LSTM is a combination of two LSTMs — one runs forwards from right to left and one runs backward from left to right. This can prevent making predictions taking only the past information into account to improve model performance on sequence classification problems. We will be using bidirectional LSTM with Keras to solve the NER problem.
 
 ## Spacy
-A simpler approach to solve the NER problem is to used Spacy, an open-source library for NLP. It provides features such as Tokenization, Parts-of-Speech (PoS) Tagging, Text Classification, and Named Entity Recognition. We will be using Spacy Pre-trained Model to show important
+A simpler approach to solve the NER problem is to used Spacy, an open-source library for NLP. It provides features such as Tokenization, Parts-of-Speech (PoS) Tagging, Text Classification, and Named Entity Recognition. 
 
 ## Visit our Medium Article for Further Details: 
 https://zhoubeiqi.medium.com/named-entity-recognition-ner-using-keras-lstm-spacy-da3ea63d24c5
